@@ -2,4 +2,4 @@
 '''
 @author: liuyang
 '''
-print 'demo '
+print 'demo 2'
